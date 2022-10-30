@@ -4,6 +4,9 @@ This work is presented by Alberto Gonzalez
 For the EBU CP307 Class
 Professor Jack Siro
 
+# Overview
+This is a sample app made by following the Android Room with a View - Java codelab to build a simple app using Room database to manage records
+
 This is the readme for this app, it saves words and arrange them in a list as you can see in these screenshots
 
 
