@@ -6,6 +6,24 @@ Professor Jack Siro
 
 # Overview
 This is a sample app made by following the Android Room with a View - Java codelab to build a simple app using Room database to manage records
+I worked with:
+
+DAO (data access object) 
+
+LiveData class
+
+Room database
+
+Repository
+
+ViewModel
+
+XML layout
+
+RecyclerView
+
+To transfer the project to GitHub i used command line(CMD) and the functions for GIT in Android Studio, as Add, Commit and Push
+
 
 This is the readme for this app, it saves words and arrange them in a list as you can see in these screenshots
 
