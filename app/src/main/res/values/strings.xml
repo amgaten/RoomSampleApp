@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">My Room App</string>
+    <string name="app_name">Simple notes</string>
     <string name="add_word">Add Word</string>
 
-    <string name="hint_word">Word...</string>
-    <string name="button_save">Save</string>
+    <string name="hint_word">Write your note...</string>
+    <string name="button_save">Save note</string>
     <string name="empty_not_saved">Word not saved because it is empty.</string>
 </resources>
